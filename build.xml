@@ -70,4 +70,7 @@
     nbproject/build-impl.xml file. 
 
     -->
+    <target name="-post-test-run">
+        <fail if="tests.failed" message="Co test case bi fail, kiem tra lai code di nhe!"/>
+    </target>
 </project>

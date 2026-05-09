@@ -12,6 +12,8 @@
 
 \* ...
 
+### Screenshots
+![DDT & TDD with JUnit](https://github.com/TuanNPA040905/SWT_CI1/blob/main/img/DDT.png)
 
 
 \#### © 2026 TuanNPA
